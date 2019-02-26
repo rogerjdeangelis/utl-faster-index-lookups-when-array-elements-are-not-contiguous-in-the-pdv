@@ -1,5 +1,7 @@
-Problem: Generate random numbers in x1-x10, y1-y10 with and without permanent arrays                                   
-                                                                                                                       
+Problem: Generate random numbers in x1-x10, y1-y10 with and without permanent arrays   
+
+Faster index lookups when array elements are not contiguous in the pdv 
+                                                                                                                    
   Two Solutions                                                                                                        
                                                                                                                        
           Seconds                                                                                                      
